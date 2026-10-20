@@ -39,7 +39,6 @@ while option != 5:
     sleep(1.5)
 
 print('_' * 20)
-
 print('Algoritmo finalizado.')
 
 sleep(1.5)
